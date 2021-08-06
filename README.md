@@ -8,3 +8,6 @@
 * Created Whole Data Science Pipeline in just 1 Function "is_there_any_exoplanet_in_orbit_of_That_star_or_not". This Function can predicted the Related Class About the Raw_Data-Point We give after Performing whole preprocessing , loading , prediction Internally. 
 * I have Written a Very  detailed Medium blog About the project. Where i talked on questions like What is the problem , How We can Solve it Using Ai , How I choose my Main Performance Metric, How I solved Using Ml. Etc.. Please Go through it once to know some points : 
 * https://utkarshjhansi11.medium.com/lets-find-planets-beyond-our-solar-system-milky-way-galaxy-with-the-help-of-905dcfc95d3d
+*  Model is Deployed on Heroku. please visit the link bellow to see my model in production :
+*  https://exoplanet-finder.herokuapp.com/
+
