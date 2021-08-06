@@ -10,4 +10,7 @@
 * https://utkarshjhansi11.medium.com/lets-find-planets-beyond-our-solar-system-milky-way-galaxy-with-the-help-of-905dcfc95d3d
 *  Model is Deployed on Heroku. please visit the link bellow to see my model in production :
 *  https://exoplanet-finder.herokuapp.com/
+*  This is a Screenshot of Model in production :
+*  ![Screenshot (35)](https://user-images.githubusercontent.com/61959483/128574305-0cf1acfa-63ce-46c6-b0c3-aab6ec25f2ca.png)
+
 
